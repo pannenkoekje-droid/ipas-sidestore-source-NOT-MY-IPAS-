@@ -1,4 +1,6 @@
 {
+  "name": "Pannenkoekjes Repo",
+  "identifier": "com.pannenkoekje.repo",
   "apps": [
     {
       "name": "RDR",
