@@ -1,7 +1,7 @@
 {
   "name": "pannenkoekje's repo",
   "identifier": "com.pannenkoekje.repo",
-  "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/download1.jpg",
+  "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/download1.jpg",
   "apps": [
     {
       "name": "RDR",
@@ -21,7 +21,7 @@
       "versionDate": "2026-03-01",
       "size": 15728640,
       "downloadURL": "https://files.catbox.moe/2qm85s.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/460x0w.png",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/460x0w.png",
       "developerName": "AppDB",
       "localizedDescription": "movie app."
     },
@@ -32,7 +32,7 @@
       "versionDate": "2026-03-01",
       "size": 94101596,
       "downloadURL": "https://files.catbox.moe/04uc44.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/Spotify%20Icon.png",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/Spotify%20Icon.png",
       "developerName": "EeveeSpotify",
       "localizedDescription": "Spotify mod."
     }
