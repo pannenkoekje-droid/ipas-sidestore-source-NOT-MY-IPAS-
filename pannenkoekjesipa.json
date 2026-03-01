@@ -2,6 +2,7 @@
   "name": "pannenkoekje's repo",
   "identifier": "com.pannenkoekje.repo",
   "sourceURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/pannenkoekjesipa.json",
+  "userinfo": {},
   "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/download1.jpg",
   "apps": [
     {
