@@ -23,6 +23,17 @@
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/460x0w.png",
       "developerName": "AppDB",
       "localizedDescription": "movie app."
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "9.1.12",
+      "versionDate": "2026-03-01",
+      "size": 94101596,
+      "downloadURL": "https://files.catbox.moe/04uc44.ipa",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/Spotify%20Icon.png",
+      "developerName": "EeveeSpotify",
+      "localizedDescription": "free spotify premium."
     }
   ]
 }
