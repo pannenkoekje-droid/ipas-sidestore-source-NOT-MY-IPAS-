@@ -1,5 +1,5 @@
 {
-  "name": "Pannenkoekjes Repo",
+  "name": "pannenkoekje's repo",
   "identifier": "com.pannenkoekje.repo",
   "apps": [
     {
@@ -12,6 +12,17 @@
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/200x200ia-75.webp",
       "developerName": "Rockstar Games",
       "localizedDescription": "Red Dead Redemption cracked by Ikurd Store."
+    },
+    {
+      "name": "HDFlix",
+      "bundleIdentifier": "com.qxangel.dev",
+      "version": "2.0",
+      "versionDate": "2026-03-01",
+      "size": 15728640,
+      "downloadURL": "https://files.catbox.moe/2qm85s.ipa",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/460x0w.png",
+      "developerName": "AppDB",
+      "localizedDescription": "movie app."
     }
   ]
 }
