@@ -1,10 +1,11 @@
 {
   "name": "pannenkoekje's repo",
   "identifier": "com.pannenkoekje.repo",
+  "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/download1.jpg",
   "apps": [
     {
       "name": "RDR",
-      "bundleIdentifier": "com.rockstargames.rdr",
+      "bundleIdentifier": "com.pannenkoekje.rdr",
       "version": "1.0",
       "versionDate": "2026-03-01",
       "size": 2890108928,
@@ -15,7 +16,7 @@
     },
     {
       "name": "HDFlix",
-      "bundleIdentifier": "com.qxangel.dev",
+      "bundleIdentifier": "com.pannenkoekje.hdflix",
       "version": "2.0",
       "versionDate": "2026-03-01",
       "size": 15728640,
@@ -26,14 +27,14 @@
     },
     {
       "name": "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.pannenkoekje.eeveespotify",
       "version": "9.1.12",
       "versionDate": "2026-03-01",
       "size": 94101596,
       "downloadURL": "https://files.catbox.moe/04uc44.ipa",
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/Spotify%20Icon.png",
       "developerName": "EeveeSpotify",
-      "localizedDescription": "free spotify premium."
+      "localizedDescription": "Spotify mod."
     }
   ]
 }
