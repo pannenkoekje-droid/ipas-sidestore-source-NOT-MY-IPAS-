@@ -2,52 +2,55 @@
   "name": "pannenkoekje's repo",
   "identifier": "com.pannenkoekje.repo",
   "sourceURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/pannenkoekjesipa.json",
-  "userinfo": {},
   "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/download1.jpg",
   "apps": [
     {
       "name": "RDR",
       "bundleIdentifier": "com.pannenkoekje.rdr",
+      "developerName": "Rockstar Games",
+      "subtitle": "Actie-avontuur",
+      "localizedDescription": "Red Dead Redemption.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/200x200ia-75.webp",
       "version": "1.0",
       "versionDate": "2026-03-01",
       "size": 2890108928,
-      "downloadURL": "http://192.168.2.6:8000/RDR.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/200x200ia-75.webp",
-      "developerName": "Rockstar Games",
-      "localizedDescription": "Red Dead Redemption cracked by Ikurd Store."
+      "downloadURL": "http://192.168.2.6:8000/RDR.ipa"
     },
     {
       "name": "HDFlix",
       "bundleIdentifier": "com.pannenkoekje.hdflix",
+      "developerName": "AppDB",
+      "subtitle": "Video",
+      "localizedDescription": "Movie app.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/460x0w.png",
       "version": "2.0",
       "versionDate": "2026-03-01",
       "size": 15728640,
-      "downloadURL": "https://files.catbox.moe/2qm85s.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/460x0w.png",
-      "developerName": "AppDB",
-      "localizedDescription": "movie app."
+      "downloadURL": "https://files.catbox.moe/2qm85s.ipa"
     },
     {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.pannenkoekje.eeveespotify",
+      "developerName": "EeveeSpotify",
+      "subtitle": "Muziek",
+      "localizedDescription": "Spotify client.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/Spotify%20Icon.png",
       "version": "9.1.12",
       "versionDate": "2026-03-01",
       "size": 94101596,
-      "downloadURL": "https://files.catbox.moe/04uc44.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/Spotify%20Icon.png",
-      "developerName": "EeveeSpotify",
-      "localizedDescription": "Spotify mod."
+      "downloadURL": "https://files.catbox.moe/04uc44.ipa"
     },
     {
       "name": "Worldbox",
       "bundleIdentifier": "com.pannenkoekje.worldbox",
+      "developerName": "Unknown",
+      "subtitle": "Simulatie",
+      "localizedDescription": "WorldBox.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/WorldBox-Mod-icon.png",
       "version": "0.51.2",
       "versionDate": "2026-03-01",
       "size": 200000000,
-      "downloadURL": "https://files.catbox.moe/24ycwa.ipa",
-      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/WorldBox-Mod-icon.png",
-      "developerName": "???",
-      "localizedDescription": "premium."
+      "downloadURL": "https://files.catbox.moe/24ycwa.ipa"
     }
   ]
 }
