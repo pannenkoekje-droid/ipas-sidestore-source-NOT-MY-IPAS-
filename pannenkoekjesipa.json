@@ -35,6 +35,17 @@
       "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/Spotify%20Icon.png",
       "developerName": "EeveeSpotify",
       "localizedDescription": "Spotify mod."
+    },
+    {
+      "name": "Worldbox",
+      "bundleIdentifier": "com.pannenkoekje.worldbox",
+      "version": "0.51.2",
+      "versionDate": "2026-03-01",
+      "size": 200000000,
+      "downloadURL": "https://files.catbox.moe/24ycwa.ipa",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/refs/heads/main/WorldBox-Mod-icon.png",
+      "developerName": "???",
+      "localizedDescription": "premium."
     }
   ]
 }
