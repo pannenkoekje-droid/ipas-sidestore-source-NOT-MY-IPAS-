@@ -1,0 +1,81 @@
+{
+  "name": "pannenkoekje's repo",
+  "identifier": "com.pannenkoekje.repo",
+  "sourceURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/pannenkoekjesipa.json",
+  "subtitle": "SideStore bron",
+  "description": "Persoonlijke SideStore bron met test-apps.",
+  "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/download1.jpg",
+  "website": "https://github.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-",
+  "tintColor": "#4F46E5",
+  "featuredApps": [
+    "com.pannenkoekje.hdflix",
+    "com.pannenkoekje.eeveespotify"
+  ],
+  "apps": [
+    {
+      "name": "RDR",
+      "bundleIdentifier": "com.pannenkoekje.rdr",
+      "developerName": "Rockstar Games",
+      "subtitle": "Actie-avontuur",
+      "localizedDescription": "Red Dead Redemption.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/200x200ia-75.webp",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-03-01T00:00:00Z",
+          "size": 2890108928,
+          "downloadURL": "http://192.168.2.6:8000/RDR.ipa"
+        }
+      ]
+    },
+    {
+      "name": "HDFlix",
+      "bundleIdentifier": "com.pannenkoekje.hdflix",
+      "developerName": "AppDB",
+      "subtitle": "Video",
+      "localizedDescription": "Movie app.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/460x0w.png",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-03-01T00:00:00Z",
+          "size": 15728640,
+          "downloadURL": "https://files.catbox.moe/2qm85s.ipa"
+        }
+      ]
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.pannenkoekje.eeveespotify",
+      "developerName": "EeveeSpotify",
+      "subtitle": "Muziek",
+      "localizedDescription": "Spotify client.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/Spotify%20Icon.png",
+      "versions": [
+        {
+          "version": "9.1.12",
+          "date": "2026-03-01T00:00:00Z",
+          "size": 94101596,
+          "downloadURL": "https://files.catbox.moe/04uc44.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Worldbox",
+      "bundleIdentifier": "com.pannenkoekje.worldbox",
+      "developerName": "Unknown",
+      "subtitle": "Simulatie",
+      "localizedDescription": "WorldBox.",
+      "iconURL": "https://raw.githubusercontent.com/pannenkoekje-droid/ipas-sidestore-source-NOT-MY-IPAS-/main/WorldBox-Mod-icon.png",
+      "versions": [
+        {
+          "version": "0.51.2",
+          "date": "2026-03-01T00:00:00Z",
+          "size": 200000000,
+          "downloadURL": "https://files.catbox.moe/24ycwa.ipa"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
